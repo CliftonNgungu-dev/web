@@ -1,8 +1,8 @@
-/*let myHeading = document.querySelector('h1');
+let myHeading = document.querySelector('h1');
 alert ('Hello World')
 myHeading.textContent = 'Hello world!';
  //this is JavaScript code for manipulating the header of the sit
-
+/*
 document.querySelector('html').onclick = function() {
     alert('Stop Bothering me!');
 }
